@@ -4,7 +4,7 @@ The final project we did for the electronics module "Interaction électronique-l
 
 ## overview :
 
-this year, Niels Crolais and I had the opportunity to create and manage a small project using an Arduino Uno. We decided to build some kind of Bluetooth watch using an OLED screen, who can read temperature, adjust the display to the luminosity and output notification coming from a phone.
+this year, Niels Crolais and I had the opportunity to create and manage a small project using an Arduino Uno. We decided to build some kind of Bluetooth watch using an OLED screen, who can read temperature, adjust the display to the luminosity (using a built-in function from the screen's library) and output notifications coming from a phone.
 
 ---
 
